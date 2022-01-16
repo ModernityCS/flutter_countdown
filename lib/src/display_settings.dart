@@ -1,3 +1,6 @@
+/// Flutter Countdown packages - Release 2022
+/// Author: StroeAndre
+
 /// [@DisplaySettings] allows you to change how the countdown is going to be displayed on screen
 ///
 /// The class will allow to display only the options setted on [true] -

@@ -1,5 +1,7 @@
 import 'dart:typed_data';
 
+/// Flutter Countdown packages - Release 2022
+/// Author: StroeAndre
 class TimeInfo {
   // This implements the Gregorian calendar leap year rules wherein a year is considered to
   // be a leap year if it is divisible by 4, excepting years divisible by 100, but including years divisible by 400.

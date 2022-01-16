@@ -1,3 +1,6 @@
+/// Flutter Countdown packages - Release 2022
+/// Author: StroeAndre
+
 library flutter_countdown;
 
 /// A Calculator.

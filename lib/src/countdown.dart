@@ -2,6 +2,8 @@ import 'package:flutter_countdown/src/countdown_results.dart';
 import 'package:flutter_countdown/src/display_settings.dart';
 import 'package:flutter_countdown/src/time_info.dart';
 
+/// Flutter Countdown packages - Release 2022
+/// Author: StroeAndre
 class Countdown {
   /// Object Parameters
   final DateTime endDate;
