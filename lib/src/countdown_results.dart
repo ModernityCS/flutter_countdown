@@ -1,6 +1,8 @@
 /// Flutter Countdown packages - Release 2022
 /// Author: StroeAndre
 ///
+///
+///
 /// CountdownResults - Object to store the value of the current countdown
 class CountdownResults {
   int years = 0;
